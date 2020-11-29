@@ -1,0 +1,6 @@
+The necessary localserver(XAMPP) is to be installed and this whole folder is to be placed in the localhost htdocs folder.
+Henceforth the  Apache and MySQL services are started in the XAMPP control panel
+The the link(localhost/phpmyadmin) is opened in chrome.
+Thereafter the database bbdms is to be created in the localhost.
+The queries in the sqlfile/bbdms.sql are to be implemented so as to get the required database.
+Then the url is opened on the chrome browser.(localhost/bbdms)
